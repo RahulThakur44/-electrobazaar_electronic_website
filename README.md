@@ -75,7 +75,7 @@ electrobazaar_electronic_website/
 ### 🔐 Admin Panel
 
 ### 📊 Dashboard Overview  
-![Admin Dashboard](./screenshots/Admin-dashboard.png)
+![Admin Dashboard](./screenshots/Admin_dashboard.png)
 
 ### 🧩 Product Management  
 ![Product Management](./screenshots/product_management.png)
